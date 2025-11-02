@@ -32,7 +32,7 @@ Thumbs.db
 *.db
 *.pkl
 *.h5
-*.csv
+csv
 *.tsv
 *.xls
 *.xlsx
